@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manzcube
-- 👀 I’m interested in become web developer 
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me: marcalzamora1@hotmail.com
+- 👋 Hi, I’m @manzcube.
+- 👀 Web Developer, currently searching for a Fullstack position. 
+- 
+- 💞️ Looking to collaborate on different projects.
+- 📫 How to reach me: wdmanzcube@hotmail.com
 
 <!---
 manzcube/manzcube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
