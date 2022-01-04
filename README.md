@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @manzcube.
-- 👀 Web Developer, currently searching for a Fullstack position. 
-- 
-- 💞️ Looking to collaborate on different projects.
-- 📫 How to reach me: wdmanzcube@hotmail.com
+- :hear_no_evil: Web Developer, currently searching for a Fullstack position. 
+- :muscle: Training every day my coding skills.
+- 💞:eyes: Looking to collaborate on different projects.
+- �:running: How to reach me: wdmanzcube@hotmail.com
 
 <!---
 manzcube/manzcube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
