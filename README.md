@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manzcube.
 - :hear_no_evil: Web Developer, currently seeking for a Fullstack position. 
-- :muscle: Cading every day.
+- 💻 Coding every day.
 - :eyes: Looking to collaborate on different projects and keep learning.
 - :running: How to reach me: wdmanzcube@hotmail.com
 
