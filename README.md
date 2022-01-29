@@ -7,9 +7,8 @@ HI!, I'm Marc, self-taught passionate FullStack Developer.
 
 
 
-- 😏 Web Developer, currently seeking for a Fullstack position. 
+- :eyes: Currently seeking for a Fullstack position. 
 - 💻 Coding every day.
-- :eyes: Looking to collaborate on different projects and keep learning.
 - :boom: I love working with JavaScript, NoderJS and React.
 - :running: How to reach me: wdmanzcube@hotmail.com
 
