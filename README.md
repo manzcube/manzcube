@@ -10,7 +10,7 @@ HI!, I'm Marc, self-taught passionate FullStack Developer.
 - :eyes: Currently seeking for a Fullstack position. 
 - 💻 Coding every day.
 - 💪 Working with MERN stack.
-- :running: How to reach me: wdmanzcube@hotmail.com
+- :running: How to reach me: manzcube@gmail.com
 
 
 
