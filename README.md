@@ -1,8 +1,6 @@
-Self-taught Software Engineer working primarily with React, Express, NodeJS, and MongoDB.
+I do web applications with React and Typescript.
 
-I would describe myself as an inquisitive, problem-solver, and organized person who loves coding and Rubik's cube!
-
-How to reach me: 
+I like to learn.
 
 Email: manzcube@gmail.com
 Website: https://manzcube.net
