@@ -1,4 +1,4 @@
-I do web applications with React and Typescript.
+I do web apps.
 
 I like to learn.
 
