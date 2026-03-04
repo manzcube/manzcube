@@ -1,8 +1,6 @@
-I do web apps.
+I like to try.
 
-I like to learn.
-
-Website: https://manzcube.com
+Website: https://marcalzamora.com
 LinkedIn: https://www.linkedin.com/in/marc-alzamora/
 
 
